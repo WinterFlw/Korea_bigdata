@@ -1,29 +1,15 @@
 # Korea_bigdata
-Korea bigdata link.
-
-<script>
-	var sessionRnd="0.5170944972775116";
-</script>
-<script src="//static.datadata.co.kr/include/js/jquery-3.3.1.min.js"></script>
-<script src="//static.datadata.co.kr/include/js/toast.min.js"></script>
-<script src="//static.datadata.co.kr/include/js/jquery.blockUI.js"></script>
-<script src="//static.datadata.co.kr/include/js/jquery-ui-1.13.1.min.js"></script>
-<script src="//static.datadata.co.kr/include/js/jquery.ui.touch-punch.min.js"></script>
-<script src="//static.datadata.co.kr/include/js/jquery.rwdImageMaps.min.js"></script>
-<script src="//static.datadata.co.kr/include/modal/jquery.modal.min.js"></script>
-<script src="//static.datadata.co.kr/include/js/moment-ko.js"></script>
-<script src="//static.datadata.co.kr/include/js/numeral.min.js"></script>
-<script src="/include/js/common.js?0.5170944972775116"></script>
-<script src="//static.datadata.co.kr/include/plyr/plyr.polyfilled.min.js"></script>
-<script src="//static.datadata.co.kr/include/signaturepad/jquery.signaturepad.min.js"></script>
-<script src="https://t1.daumcdn.net/mapjsapi/bundle/postcode/prod/postcode.v2.js"></script>
-<script class="gps" type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=ac6a369e61fdabb504636abc53d3d4b2&libraries=services"></script>
-<script src="Lang.js"></script>
-<script src="Loop.js?0.5170944972775116"></script>
-<script src="Modules.js"></script>
-<script src="Questions.js?0.5170944972775116"></script>
-<script src="Save.js?0.5170944972775116"></script>
-<script src="Replacer.js?0.5170944972775116"></script>
-<script src="Condition.js?0.5170944972775116"></script>
-<script src="TextHelper.js?0.5170944972775116"></script>
-<script src="index.js?0.5170944972775116"></script>
+한국 빅데이터 링크
+| 분야 | URL | 분야 | URL |
+| --- | --- | --- | --- |
+| 금융 | http://bigdata-finance.kr/ | 농식품 | https://www.notion.so/winterflw/bigdata-agrofood.kr |
+| 환경 | https://www.notion.so/winterflw/bigdata-environment.kr | 디지털산업혁신 | https://www.notion.so/winterflw/bigdata-dx.kr |
+| 문화 | https://www.notion.so/winterflw/bigdata-culture.kr | 라이프로그 | https://www.notion.so/winterflw/bigdata-lifelog.kr |
+| 교통 | https://www.bigdata-transportation.kr/ | 소방안전 | https://www.notion.so/winterflw/bigdata-119.kr |
+| 헬스케어 | https://www.notion.so/winterflw/bigdata-cancer.kr | 스마트치안 | https://www.notion.so/winterflw/bigdata-policing.kr |
+| 유통소비 | https://www.notion.so/winterflw/bigdata-market.kr | 해양수산 | https://www.bigdata-sea.kr/ |
+| 통신 | https://www.bigdata-telecom.kr/ | 감염병 | https://www.notion.so/winterflw/bigdata-covid.kr |
+| 중소기업 | https://www.notion.so/winterflw/bigdata-sme.kr | 공간융합 | https://www.notion.so/winterflw/bigdata-geo.kr |
+| 지역경제 | https://www.notion.so/winterflw/bigdata-region.kr | 부동산 | https://www.bigdata-realestate.kr/ |
+| 산림 | https://www.notion.so/winterflw/bigdata-forest.kr | 스마트팜 | https://www.n-farm.kr/ |
+| 연안 | https://www.notion.so/winterflw/bigdata-coast.kr |  |  |
